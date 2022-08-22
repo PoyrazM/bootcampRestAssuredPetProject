@@ -29,5 +29,4 @@
 - [Swagger](https://petstore.swagger.io/#/)
 
 
-## Author
-[PoyrazM](https://github.com/PoyrazM)
+## Author - [PoyrazM](https://github.com/PoyrazM)
