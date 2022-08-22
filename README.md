@@ -15,6 +15,9 @@
 - [Pending](https://github.com/PoyrazM/bootcampRestAssuredPetProject/blob/main/bootcampFinalProjectPetApi/src/test/java/tests/PetPendingTestNG.java)
 - [Sold](https://github.com/PoyrazM/bootcampRestAssuredPetProject/blob/main/bootcampFinalProjectPetApi/src/test/java/tests/PetSoldTestNG.java)
 
+## Allure Results
+![petAllure1](https://user-images.githubusercontent.com/105527159/185831380-d6857901-5ba1-4389-935b-e68314168be6.PNG)
+![petAllure2](https://user-images.githubusercontent.com/105527159/185831419-05d6a328-959a-42e6-b559-4ed05e009949.PNG)
 
 ## Tech
 - Rest Assured
